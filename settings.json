@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 30,
       "messages": [
         "Bhaiyaan ",
         "vaste gena hunyee!",
